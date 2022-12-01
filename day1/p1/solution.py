@@ -13,4 +13,4 @@ def calculate_highest_calories(input):
 
 
 if __name__ == "__main__":
-    print(calculate_highest_calories(open("input.txt", "r").readlines()))
+    print(calculate_highest_calories(open("../input.txt", "r").readlines()))
